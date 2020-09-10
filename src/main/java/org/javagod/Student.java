@@ -7,4 +7,7 @@ package org.javagod;
  * @Created by admin
  */
 public class Student {
+    private int id;
+    private String name;
+    private String gender;
 }
