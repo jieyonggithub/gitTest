@@ -12,4 +12,5 @@ public class Person {
     private String name;
     private int head;
     private int age;
+    private String gender;
 }
